@@ -13,6 +13,7 @@
   List of case in NormalCase.txt
 
   Used Xunit and C# to testcase (.NETCoreApp,Version=v5.0)
+  xUnit is a popular open-source testing framework that is used primarily for unit testing in various programming languages.
 
   Type "dotnet test" to run program
   
