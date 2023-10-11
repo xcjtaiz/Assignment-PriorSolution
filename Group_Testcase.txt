@@ -1,0 +1,41 @@
+Normal Cases
+
+1. CounterService, Deposit in time 10am-10pm (Allow)
+	Expect The system should accept the deposit transaction.
+	Result The system should accept the deposit transaction and record the customer's deposit amount.
+
+2. CounterService, Deposit out time before 10am and after 10pm (Not Allow)
+	Expect The system should reject the deposit transaction and notify the customer that it must be done during a specific time only.
+	Result The system should reject the deposit transaction and notify the customer that it must be done during a specific time only.
+
+3. Big Branch, Deposit in time 10am-8pm (Allow)
+	Expect The system should accept the deposit transaction.
+	Result The system should accept the deposit transaction and record the customer's deposit amount.
+
+4. Big Branch, Deposit out time before 10am and after 8pm (Not Allow)
+	Expect The system should reject the deposit transaction and notify the customer that it must be done during a specific time only.
+	Result The system should reject the deposit transaction and notify the customer that it must be done during a specific time only.
+
+5. Small Branch, Deposit in time 10am-6pm (Allow)
+	Expect The system should accept the deposit transaction.
+	Result The system should accept the deposit transaction and record the customer's deposit amount.
+
+6. Small Branch, Deposit out time before 10am and after 6pm (Not Allow)
+	Expect The system should reject the deposit transaction and notify the customer that it must be done during a specific time only.
+	Result The system should reject the deposit transaction and notify the customer that it must be done during a specific time only.
+
+7. Total deposits do not exceed 50,000 baht in 1 day, through CS, BB, SB (Allow) 
+	Expect The system should accept the deposit transaction.
+	Result The system should accept the deposit transaction and record the customer's deposit amount.
+
+8. Total deposits exceed 50,000 baht in 1 day, through CS, BB, SB (Not Allow)
+	Expect The system should reject the deposit transaction and notify the customer that there is a 1 day deposit limit.
+	Result The system should reject the deposit transaction and notify the customer that there is a 1 day deposit limit.
+
+Alternative Cases
+
+-
+
+Exception Cases
+
+-
