@@ -12,6 +12,6 @@
 
   List of case in NormalCase.txt
 
-  Used Xunit and C# to testcase
+  Used Xunit and C# to testcase (.NETCoreApp,Version=v5.0)
 
   
