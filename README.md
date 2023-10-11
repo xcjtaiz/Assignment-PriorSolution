@@ -16,4 +16,10 @@
 
   Type "dotnet test" to run program
   
-  ![image](https://github.com/xcjtaiz/Assignment-PriorSolution/assets/137169802/c01ad4ed-1d7f-43c6-b630-8213c76b529c)
+  ![image](https://github.com/xcjtaiz/Assignment-PriorSolution/assets/137169802/3af1ce1d-e9a4-4d7c-9bae-0317c3de9550)
+
+  And the result 
+
+  ![image](https://github.com/xcjtaiz/Assignment-PriorSolution/assets/137169802/9bcf4b12-c081-477f-91ad-bd10138b6a67)
+
+
