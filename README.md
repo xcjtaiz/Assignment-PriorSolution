@@ -1,4 +1,4 @@
-# Assignment-TestCase-Deposit
+# Assignment-TestCase-Deposits
 
   Write a Testcase or a case where the system needs to be tested. For Business-based testing requirement as follows:
   
