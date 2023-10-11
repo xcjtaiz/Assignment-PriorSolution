@@ -14,4 +14,6 @@
 
   Used Xunit and C# to testcase (.NETCoreApp,Version=v5.0)
 
+  Type "dotnet test" to run program
   
+  ![image](https://github.com/xcjtaiz/Assignment-PriorSolution/assets/137169802/c01ad4ed-1d7f-43c6-b630-8213c76b529c)
