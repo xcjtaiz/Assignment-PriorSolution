@@ -7,21 +7,21 @@ public class BankingSystem {
         if (isValidTime(branchType, time)) {
             if (isWithinDailyLimit(amount)) {
                 totalDailyDeposit += amount;
-                return "Accept the deposit transaction.";
+                return "The deposit transaction is completed.";
             } else {
-                return "Reject the deposit transaction and notify the customer that there is a 1 day deposit limit.";
+                return "The deposit transaction has been rejected because the customer has deposited more than daily limited.";
             }
         } else {
-            return "Reject the deposit transaction and notify the customer that it must be done during a specific time only.";
+            return "The deposit transaction has been rejected and must be done during a specific time only.";
         }
     }
 
     private boolean isValidTime(String branchType, int time) {
-        if ("CounterService".equals(branchType) && time >= 10 && time <= 22) {
+        if ("Counter Service".equals(branchType) && time >= 10 && time <= 22) {
             return true;
-        } else if ("BigBranch".equals(branchType) && time >= 10 && time <= 20) {
+        } else if ("Big Branch".equals(branchType) && time >= 10 && time <= 20) {
             return true;
-        } else if ("SubBranch".equals(branchType) && time >= 10 && time <= 18) {
+        } else if ("Sub Branch".equals(branchType) && time >= 10 && time <= 18) {
             return true;
         }
         return false;
