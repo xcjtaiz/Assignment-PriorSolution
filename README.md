@@ -12,16 +12,17 @@
 
   List of case in NormalCase.txt
 
-  Used Xunit and C# to testcase (.NETCoreApp,Version=v5.0)
+  Used Eclipse, Java and JUnit to testcase 
   
-  xUnit is a popular open-source testing framework that is used primarily for unit testing in various programming languages.
+  JUnit is a unit testing framework for Java programming language. It plays a crucial role test-driven development, and is a family of unit testing frameworks collectively known as xUnit.
 
-  Type "dotnet test" to run program
+  Result of testcase
+  ![{3EE97152-B09C-4E16-BB7B-3349142CBFD3}](https://github.com/xcjtaiz/Assignment-Testcase-Deposits/assets/137169802/9cd56778-dadd-4c34-ab27-c14050678258)
+
+  Documents
   
-  ![image](https://github.com/xcjtaiz/Assignment-PriorSolution/assets/137169802/3af1ce1d-e9a4-4d7c-9bae-0317c3de9550)
-
-  And the result 
-
-  ![image](https://github.com/xcjtaiz/Assignment-PriorSolution/assets/137169802/9bcf4b12-c081-477f-91ad-bd10138b6a67)
-
-
+  ENG
+  [Testcase_ENG.pdf](https://github.com/xcjtaiz/Assignment-Testcase-Deposits/files/12890469/Testcase_ENG.pdf)
+  
+  TH
+  [Testcase_TH.pdf](https://github.com/xcjtaiz/Assignment-Testcase-Deposits/files/12890471/Testcase_TH.pdf)
