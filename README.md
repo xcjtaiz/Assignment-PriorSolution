@@ -31,11 +31,12 @@
   
   When the condition is false by not done the transaction in time, then the result
   
-  ![image](https://github.com/xcjtaiz/Assignment-Testcase-Deposits/assets/137169802/3cce62c5-be8a-45a2-aedc-7e8a2c940540)
+  ![image](https://github.com/xcjtaiz/Assignment-Testcase-Deposits/assets/137169802/dd9e4537-96b5-4a82-b1c5-ba07c3c515d9)
 
   And other condition if customer deposit more than daily limit, then the result
   
-  ![image](https://github.com/xcjtaiz/Assignment-Testcase-Deposits/assets/137169802/d390f8cd-c322-435e-a70b-2d4e89cf2e13)
+  ![image](https://github.com/xcjtaiz/Assignment-Testcase-Deposits/assets/137169802/d34de4f8-67e7-4574-b9e0-034a9486e38d)
+
 
 
   For the Test File
